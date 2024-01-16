@@ -1,6 +1,7 @@
 # Mesh-denoising
 
 ## Mesh denoising test sample
+https://drive.google.com/file/d/14IYrlCDPVbOybL1XC35_c0nDx92b-25O/view?usp=drive_link
 
 ## Environments
 python = 3.9.17

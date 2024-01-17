@@ -1,5 +1,5 @@
 # Mesh-denoising
-Denoise mesh using normal map as guidance
+Denoise mesh using multi-view normal maps as guidance
 
 ## Mesh denoising test sample
 https://drive.google.com/file/d/14IYrlCDPVbOybL1XC35_c0nDx92b-25O/view?usp=drive_link
